@@ -1,7 +1,7 @@
 # Hi, I'm Emily 🙋‍♀️
 
 # 💫 About Me:
-🔭 I’m currently working on...new data projects<br>🤓I just completed... Spiced Data Analytics Bootcamp!<br>🌱 I’m currently learning ... Data Analytics - SQL, Tableau, Google Sheets, Python, and more!<br>👯 I’m looking to collaborate on ... Data Analytics projects!<br>💬 Ask me about ... Travel, Karaoke, Fashion, Data Analytics, Web Development<br>😄 Pronouns: ... She/Her
+🔭 I’m currently working on...new data projects<br>🤓 I just completed... Spiced Data Analytics Bootcamp!<br>🌱 I’m currently learning ... Data Analytics - SQL, Tableau, Google Sheets, Python, and more!<br>👯 I’m looking to collaborate on ... Data Analytics projects!<br>💬 Ask me about ... Travel, Karaoke, Fashion, Data Analytics, Web Development<br>😄 Pronouns: ... She/Her
 
 
 ## 🌐 Socials:
